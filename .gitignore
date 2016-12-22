@@ -3,3 +3,7 @@
 
 # Packaging
 .cask
+
+# vim editor
+*.swp
+*.swo
