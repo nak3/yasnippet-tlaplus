@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name : Devides
+# key  : dev
+# --
+Devides(p, n) == \E q \in Int : n = p * q

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name : Natural number
+# key  : nat
+# --
+$1 in Nat \ {0}

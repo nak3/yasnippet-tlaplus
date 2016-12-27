@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name : EXTENDS
+# key  : ext
+# --
+EXTENDS Integers, tlc, $1

@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
 # name : MODULE
-# key  : module
+# key  : mod
 # --
 ---- MODULE $1 ----

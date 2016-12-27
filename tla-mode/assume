@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name : ASSUME
+# key  : assu
+# --
+ASSUME $1
