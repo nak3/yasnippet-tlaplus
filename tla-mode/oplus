@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name : oplus (exclusive or, XOR)
+# key  : opl
+# --
+\oplus
